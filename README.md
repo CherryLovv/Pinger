@@ -1,3 +1,3 @@
 # Pinger
 Simple IP/Website Pinger 
-Download realse on the right side --->
+Download release on the right side --->
